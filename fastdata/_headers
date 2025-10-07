@@ -1,5 +1,0 @@
-/data.json
-  Cache-Control: public, max-age=60
-
-/*
-  Cache-Control: public, max-age=0, must-revalidate
